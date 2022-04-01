@@ -2,7 +2,7 @@
 
 ## Estudiante: Matias Oliva
 
-![mi foto](fotodeperfilutn.jpg)
+![mi foto](fotodeperfilutn.jpg|width=400px|height=400px)
 
 Descripcion: Me llamo Matias, tengo 20 años y actualmente vivo en Caseros. Ingrese a la facultad en el 2021 y este es mi segundo año. Espero poder aprender mucho durante la cursada de esta materia.
 
